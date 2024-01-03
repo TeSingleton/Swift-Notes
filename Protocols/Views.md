@@ -2,7 +2,10 @@
 
 ## A type that represents part of your app’s user interface and provides modifiers that you use to configure views.
 ### 
-* When you create a SwiftUI [view](../)
+* When you create a SwiftUI [view]((https://developer.apple.com/documentation/swiftui/view) )
+* All visible elements seen in the preview (text/images/buttons) are views. 
+* Views act like containers,allowing for other views to be placed inside. 
+* Stacking Views is know as composition.
 
 
 below are methods used in [View](https://developer.apple.com/documentation/swiftui/view) 
